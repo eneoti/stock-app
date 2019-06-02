@@ -36,7 +36,8 @@
     "react-transition-group": "^2.5.1",
     "reactstrap": "^6.5.0",
     "sass-loader": "^7.1.0",
-    "universal-cookie": "^3.0.7"
+    "universal-cookie": "^3.0.7",
+    "yarn": "^1.16.0"
   },
   "devDependencies": {
     "cross-env": "^5.1.6"
